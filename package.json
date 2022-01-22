@@ -1,0 +1,9 @@
+{
+  "name": "netlify-monorepo-test",
+  "author": "ezg27",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/dashboard/*"
+  to = "https://xenodochial-brahmagupta-793e3a.netlify.app/:splat"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
